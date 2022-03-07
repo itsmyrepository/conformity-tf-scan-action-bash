@@ -1,6 +1,6 @@
 #!/bin/bash
 export AWS_DEFAULT_REGION=us-east-1                                       #Needed if region not defined within terraform file
-apikey="" #Conformity API Key
+apikey="JZBMJUQ68t3FEmaT3BMZb5HPqtjLrMrk8fmmnYHPyhZd5iVUqFrC427EbftRnvTM" #Conformity API Key
 conformityregion="us-west-2"                                              #Conformity region
 
 mkdir -p ./tf-scan-temp
